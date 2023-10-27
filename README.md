@@ -1,2 +1,1 @@
-# supabase-react
-Project to test supabase and react 
+SUPERBASE-REACT PROJECT
